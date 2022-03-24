@@ -12,9 +12,9 @@ Project Description ([PDF]({{< baseurl >}}/resources/climatology_lab))
 
 Notes on relevant theory:
 
-Lecture Notes from course 12.003 (Physics of Atmospheres and Oceans) - Chapter 5: The Meridional Structure of the Atmosphere — temperature, pressure, moisture and winds (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 4.1 MB](http://weatherclimatelab.mit.edu/wp-content/uploads/2017/07/chap5.pdf))
+Lecture Notes from course 12.003 (Physics of Atmospheres and Oceans) - Chapter 5: The Meridional Structure of the Atmosphere — temperature, pressure, moisture and winds ([PDF - 4.1 MB](http://weatherclimatelab.mit.edu/wp-content/uploads/2017/07/chap5.pdf))
 
-Lecture Notes from course 12.003 (Physics of Atmospheres and Oceans) - Chapter 8: The General Circulation of the atmosphere — Hadley and middle latitudes circulation-heat and momentum budget (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5 MB](http://weathertank.mit.edu/wp-content/uploads/2017/04/chap8.pdf))
+Lecture Notes from course 12.003 (Physics of Atmospheres and Oceans) - Chapter 8: The General Circulation of the atmosphere — Hadley and middle latitudes circulation-heat and momentum budget ([PDF - 1.5 MB](http://weathertank.mit.edu/wp-content/uploads/2017/04/chap8.pdf))
 
 For an introduction to [General Circulation](http://weathertank.mit.edu/links/projects/general-circulation-an-introduction/general-circulation-tank-hadley) can be found at the Weather in a Tank Web site
 

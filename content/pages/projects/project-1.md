@@ -19,7 +19,7 @@ Tank Experiments
 
 \- Look at the following experiment on [Ekman Layers](http://weathertank.mit.edu/links/projects/ekman-layers-introduction) to visualize the impact of surface friction on the balance of forces.
 
-\- Notes on relevant theory: Lecture Notes from Course 12.003 (Physics of Atmospheres and Oceans) - Chapter 6 — The equations of fluid motion (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2 MB](http://weathertank.mit.edu/wp-content/uploads/2017/04/chap6.pdf))
+\- Notes on relevant theory: Lecture Notes from Course 12.003 (Physics of Atmospheres and Oceans) - Chapter 6 — The equations of fluid motion ([PDF - 1.2 MB](http://weathertank.mit.edu/wp-content/uploads/2017/04/chap6.pdf))
 
 Atmospheric Data
 ----------------
