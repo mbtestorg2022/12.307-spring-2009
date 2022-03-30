@@ -27,7 +27,7 @@ Relevant Notes at the Weather in a Tank Web site: [The Polar Front](http://weath
 **Mean fields:** Use climatological data to verify thermal wind balance across the polar front.
 
 *   Plot your data (3 files total). [See Instructions](http://halo.mit.edu/paoc.mit.edu/12307/front/thermalwind_instructions.htm).
-*   Use the MATLAB script ([M](/courses/earth-atmospheric-and-planetary-sciences/12-307-weather-and-climate-laboratory-spring-2009/projects/thermalwind.m)) to compute the temperature gradient and vertical wind shear.
+*   Use the MATLAB script ({{% resource_link "aab37320-8abd-9a83-73c1-c55e9dceed21" "M" %}}) to compute the temperature gradient and vertical wind shear.
 
 Mid-latitude cyclones and the polar front
 

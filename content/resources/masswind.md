@@ -5,6 +5,7 @@ description: Instructions for a project to study the relation between the wind f
   experiments.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-307-weather-and-climate-laboratory-spring-2009/c26dc9e43091802ebd6e3fe82d858075_masswind.pdf
 file_type: application/pdf
+parent_uid: 02f674ca-fc93-9887-46a3-aa77b970ad59
 resourcetype: Document
 title: 'Project 1: Mass and Wind - Geostrophic / Ageostrophic Flow'
 uid: c26dc9e4-3091-802e-bd6e-3fe82d858075
